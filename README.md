@@ -2,7 +2,7 @@
 A Sporting Card marketplace running on the rarible ecosystem.
 
 Requirements: 
-  Softwares: nodejs Yarn
+  Softwares: nodejs, yarn
 
   A wallet containing some some coins in the ropsten network.
 
