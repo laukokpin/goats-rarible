@@ -6,6 +6,7 @@ Requirements:
 
   A wallet containing some some coins in the ropsten network.
 
-To install: https://github.com/laukokpin/goats-rarible
+To install: 
+git https://github.com/laukokpin/goats-rarible
 cd goats-rarible
 yarn install.
