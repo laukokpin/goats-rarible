@@ -5,6 +5,7 @@
 A Sporting Card marketplace running on the rarible ecosystem.
 
 Development Stage: Prototype - Beta 
+
 Latest Release: V 0.31 2021/08/29
 
 Requirements: 
