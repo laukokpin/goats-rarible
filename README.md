@@ -2,7 +2,10 @@
 
 ![image](https://user-images.githubusercontent.com/26833900/131241057-666a828c-529a-4fa3-8a05-29db4cbc549c.png)
 
-A Sporting Card marketplace running on the rarible ecosystem.
+A Sporting Card marketplace running on the rarible ecosystem. Built on top of the Rarible Protocol. Which allows for us to rapidly prototype, fully utilising Rarible's APIS with access to the Ethereum Network.
+![image](https://user-images.githubusercontent.com/26833900/131241974-c0428699-4d9e-42f5-8978-c192a201b2a4.png)
+
+
 
 
 **Software Info**
