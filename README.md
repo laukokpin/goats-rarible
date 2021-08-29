@@ -4,11 +4,25 @@
 
 A Sporting Card marketplace running on the rarible ecosystem.
 
+**Software Info**
+
 Development Stage: Prototype - Beta 
 
 Latest Release: V 0.31 2021/08/29
 
-Requirements: 
+Features: Logging with Wallet.
+
+          Ipfs uploads of nfts.
+          
+           Minting of nfts
+           
+           Viewing of nfts collectibles attached to the wallet address.
+           
+ Planed Features: Compastable NFT sport cards. Allows for algorihtm generated composable nft sport cards. Built on the ethereum block chain.
+           
+           
+
+**Requirements: **
   
   Softwares: nodejs, yarn
 
@@ -18,8 +32,9 @@ Requirements:
 
 
 
-To install: 
-git https://github.com/laukokpin/goats-rarible
+**To install: **
+
+$ git https://github.com/laukokpin/goats-rarible
 
 $ cd goats-rarible
 
